@@ -1,0 +1,22 @@
+{
+    "schedules": [
+        {
+            "id": 1,
+            "time": "06:00 AM",
+            "duration": "15 min",
+            "days": "Mon, Wed, Fri",
+            "conditionDry": true,
+            "conditionTank": true,
+            "active": true
+        },
+        {
+            "id": 2,
+            "time": "05:30 PM",
+            "duration": "10 min",
+            "days": "Daily",
+            "conditionDry": false,
+            "conditionTank": true,
+            "active": true
+        }
+    ]
+}

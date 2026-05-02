@@ -1,0 +1,12 @@
+{
+  "schedules": [
+    {
+      "id": 1,
+      "time": "06:00 AM",
+      "duration": "15 min",
+      "days": "Mon, Wed, Fri",
+      "active": true
+    }
+  ],
+  "valve_open": false
+}
